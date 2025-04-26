@@ -20,3 +20,5 @@ The `JSON` file will hold the raw content of the SpeedTest-Cli,
 and the `Png` image will be the visual summery of the test result,  
 making it easier to interpret without needing to manually analyze the data.  
 The `Log` file records runtime events for debugging and further inspection.
+
+![Report Folder Structure](Image/report.png)
